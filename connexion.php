@@ -1,5 +1,5 @@
 <?php
 
-echo "connexion done";
+echo "connexion done now";
 
 ?>
